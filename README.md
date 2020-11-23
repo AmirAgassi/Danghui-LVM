@@ -31,7 +31,7 @@ Thank you:
 - YieldFunction's have native support, isn't that just great?
 - NO YIELDING, NO HTTP/LOADSTRING SUPPORT.
 
-Danghui is the backend of the exploit Abstract, since it has switched from a stupid version of "Bytecode Execution" that was impossible to maintain. Here's the last working version if anyone still cares, along with a review NateVang has made about my exploit.
+Danghui is the newer backend of the exploit Abstract, ever since it has switched from a stupid version of "Bytecode Execution" that was impossible to maintain. Here's the last working version if anyone still cares, along with a review NateVang has made about my exploit.
 https://www.youtube.com/watch?v=AF80kcpa2AM&ab_channel=AzulScript
 
 
