@@ -1,5 +1,6 @@
 
 #include <Windows.h>
+#include <string>
 #include <type_traits>
 #include "types.hpp"
 #include "convert.hpp"
@@ -10,6 +11,8 @@
 #include "Lua/lobject.h"
 #include "Utilities/Retcheck.h"
 #include "Libraries/VMP/VMProtectSDK.h"
+
+using namespace std;
 
 //#define danghui_debug
 

@@ -1,7 +1,7 @@
 #pragma once
 #include <Windows.h>
 #include <map>
-
+#include <stdexcept>
 /*
 Retcheck bypass by Chirality
 My Code starts at around line 500

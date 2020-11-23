@@ -1,0 +1,214 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  convert.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\convert.cpp(13,32): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\convert.cpp(13,32): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\convert.cpp(13,43): warning C4312: 'type cast': conversion from 'DWORD' to '_newlstr' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\convert.cpp(19,22): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\convert.cpp(19,22): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\convert.cpp(19,22): warning C4312: 'type cast': conversion from 'DWORD' to 'lua_Number *' of greater size
+  core.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(303,27): warning C4267: 'initializing': conversion from 'size_t' to 'BYTE', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(411,17): error C2485: 'naked': unrecognized extended attribute
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(412,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(413,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(412,9): error C2065: 'pop': undeclared identifier
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(412,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(412,13): error C2065: 'eax': undeclared identifier
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(413,9): error C2146: syntax error: missing ';' before identifier 'ret'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(413,9): error C2065: 'ret': undeclared identifier
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(414,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(451,65): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'unsigned int'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(451,65): warning C4302: 'type cast': truncation from 'HMODULE' to 'unsigned int'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(579,15): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(610,28): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(830,10): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1052,15): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1052,15): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1059,46): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1060,54): warning C4311: 'type cast': pointer truncation from 'DWORD *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1060,54): warning C4302: 'type cast': truncation from 'DWORD *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1066,12): error C2485: 'naked': unrecognized extended attribute
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1068,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1070,3): error C2065: 'mov': undeclared identifier
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1070,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1070,7): error C2065: 'ebx': undeclared identifier
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1070,16): error C3481: 'esp': lambda capture variable not found
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1071,8): error C3260: 'identifier': skipping unexpected token(s) before lambda body
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1084,39): error C2065: 'FnName': undeclared identifier
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1087,1): error C2146: syntax error: missing ';' before identifier 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1088,1): error C2601: 'KernelBaseLocate': local function definitions are illegal
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1097,1): error C2601: 'PlaceHook': local function definitions are illegal
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1109,1): error C2601: 'CreateHooks': local function definitions are illegal
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1124,1): error C2601: 'danghui_int3cbreakpoint': local function definitions are illegal
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1137,1): error C2601: 'danghui_main': local function definitions are illegal
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1155,1): error C2601: 'DllMain': local function definitions are illegal
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(1162,1): fatal error C1004: unexpected end-of-file found
+  gui.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\gui.cpp(26,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\gui.cpp(28,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\gui.cpp(56,90): warning C4311: 'type cast': pointer truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+C:\Users\thing\Desktop\Danghui-LVM-main\gui.cpp(56,90): warning C4302: 'type cast': truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+  crc32.cpp
+  digest.cpp
+  keccak.cpp
+  md5.cpp
+  sha1.cpp
+  sha256.cpp
+  sha3.cpp
+  Instance.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(6,35): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(12,46): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(13,45): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(14,41): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(15,46): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(15,71): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(15,75): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(24,48): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(50,42): warning C4312: 'type cast': conversion from 'DWORD' to 'std::string **' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(55,52): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(55,56): warning C4312: 'type cast': conversion from 'DWORD' to 'std::string **' of greater size
+  Scan.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(16,7): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(27,3): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(27,3): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(29,41): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(29,13): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(50,3): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(50,3): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(49,28): warning C4101: 'mi': unreferenced local variable
+  wrap.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(566,1): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(572,1): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(587,1): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(595,1): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(597,1): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(103,29): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(103,49): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(112,23): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(117,41): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(117,81): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(117,104): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(118,35): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(118,40): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(119,23): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(119,48): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(127,69): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(127,69): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(127,80): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(128,67): warning C4312: 'type cast': conversion from 'DWORD' to '_newthread' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(136,35): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(136,35): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(136,46): warning C4312: 'type cast': conversion from 'DWORD' to '_gettable' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(143,35): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(143,35): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(143,46): warning C4312: 'type cast': conversion from 'DWORD' to '_settable' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(150,44): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(150,44): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(150,55): warning C4312: 'type cast': conversion from 'DWORD' to '_newCclosure' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(154,23): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(154,23): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(162,65): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(162,65): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(162,80): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(163,48): warning C4312: 'type cast': conversion from 'DWORD' to '_call' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(164,72): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(166,72): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(177,26): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(177,26): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(177,37): warning C4312: 'type cast': conversion from 'DWORD' to '_arith' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(187,51): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(187,51): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(187,66): warning C4312: 'type cast': conversion from 'DWORD' to 'r_TValue *(__cdecl *)(unsigned int,int)' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(194,18): warning C4244: 'initializing': conversion from 'lua_Integer' to 'unsigned int', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(209,17): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(209,17): warning C4312: 'type cast': conversion from 'DWORD' to 'r_TValue *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(232,26): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(237,18): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(237,18): warning C4312: 'type cast': conversion from 'DWORD' to 'r_TValue *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(240,18): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(312,64): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(312,64): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(313,51): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(313,51): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(314,20): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(314,20): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(314,20): warning C4312: 'type cast': conversion from 'DWORD' to 'r_TValue *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(317,18): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(317,18): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(317,18): warning C4312: 'type cast': conversion from 'DWORD' to 'r_TValue *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(329,64): warning C4312: 'type cast': conversion from 'unsigned int' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(329,64): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(330,51): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(330,51): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(331,20): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(331,20): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(331,20): warning C4312: 'type cast': conversion from 'DWORD' to 'r_TValue *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(334,18): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(334,18): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(334,18): warning C4312: 'type cast': conversion from 'DWORD' to 'r_TValue *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(483,57): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(483,57): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(483,62): warning C4312: 'type cast': conversion from 'DWORD' to 'const char *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(669,18): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned int *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(683,18): warning C4312: 'type cast': conversion from 'unsigned int' to 'unsigned int *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(733,12): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(733,12): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\wrap.cpp(733,29): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(513,1): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(595): message : see reference to function template instantiation 'T Retcheck::unprotect<DWORD>(BYTE *)' being compiled
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(513,1): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(518,19): warning C4244: 'initializing': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(521,1): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'T'
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(521,1): warning C4302: 'type cast': truncation from 'BYTE *' to 'T'
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(525,1): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'T'
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(525,1): warning C4302: 'type cast': truncation from 'BYTE *' to 'T'
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(528,1): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(528,1): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(528,1): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(528,1): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(530,1): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(530,1): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(532,1): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(532,1): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(532,1): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(532,1): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(533,1): warning C4311: 'type cast': pointer truncation from 'void *' to 'T'
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(533,1): warning C4302: 'type cast': truncation from 'void *' to 'T'
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(538,1): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'T'
+          with
+          [
+              T=DWORD
+          ]
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Retcheck.h(538,1): warning C4302: 'type cast': truncation from 'BYTE *' to 'T'
+          with
+          [
+              T=DWORD
+          ]

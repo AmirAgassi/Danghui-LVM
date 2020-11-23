@@ -1,9 +1,58 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Danghui.vcxproj, Reaxus.vcxproj, Titan.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Danghui.vcxproj, Reaxus.vcxproj, Titan.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  convert.cpp
+  core.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(303,27): warning C4267: 'initializing': conversion from 'size_t' to 'BYTE', possible loss of data
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(324,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(337,21): warning C4018: '<': signed/unsigned mismatch
+  gui.cpp
+  crc32.cpp
+  digest.cpp
+  keccak.cpp
+  md5.cpp
+  sha1.cpp
+  sha256.cpp
+  sha3.cpp
+  Instance.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Instance.cpp(15,75): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  Scan.cpp
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(49,28): warning C4101: 'mi': unreferenced local variable
   wrap.cpp
+  xxtea.c
+  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  Compiling...
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lundump.c
+  lvm.c
+  lzio.c
   Generating code
-  4 of 1494 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    4 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\thing\Desktop\Danghui-LVM-main\Utilities\Scan.cpp(41): warning C4715: 'Memory::Scan': not all control paths return a value
+C:\Users\thing\Desktop\Danghui-LVM-main\core.cpp(703): warning C4715: 'ClearListView': not all control paths return a value
+  All 1461 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  Danghui.vcxproj -> C:\Users\Death\Desktop\danghui\danghui\..\Prerelease\TitanV2.dll
+  Danghui.vcxproj -> C:\Users\thing\Desktop\Danghui-LVM-main\Prerelease\TitanV2.dll
