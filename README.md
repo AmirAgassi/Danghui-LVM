@@ -31,6 +31,11 @@ Thank you:
 - YieldFunction's have native support, isn't that just great?
 - NO YIELDING, NO HTTP/LOADSTRING SUPPORT.
 
+Danghui is the backend of the exploit Abstract, since it has switched from a stupid version of "Bytecode Execution" that was impossible to maintain. Here's the last working version if anyone still cares, along with a review NateVang has made about my exploit.
+https://www.youtube.com/watch?v=AF80kcpa2AM&ab_channel=AzulScript
+https://www.youtube.com/watch?v=nevULP0USlM
+
+
 Issues:
 - Lua functions like lua_resume and lua_yield will not work as expected, as the VM is tasked with handling the yield. Since we execute code locally on the CLVM, yields act differently.
 - Checks such as the simple "hackflag" check in lua C functions need to be bypassed manually, then quickly reverted in a short period of time in order to prevent the memory checker from flagging any modifications in memory. 
