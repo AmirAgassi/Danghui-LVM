@@ -20,11 +20,7 @@ for (;;)
 
 
 Thank you:
-  3dsboy
-  sloppey
-  Austin
-  Slappy
-  Autumn
+  3dsboy, sloppey, Austin, Slappy, Autumn, Jordan (RC7)
 
 - Able to index every class
 - Able to set any property
