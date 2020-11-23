@@ -1,7 +1,22 @@
 # Danghui-LVM
-Danghui is a Roblox CLVM (very hard to patch) that uses a relatively brand new script execution method to execute arbitrary code on Roblox's own main lua_State. Since 2017, this project has been depreciated due to Roblox's implementation of memory checking.
+Danghui is a Roblox CLVM that uses a relatively brand new script execution method to execute arbitrary code on Roblox's own main lua_State. Since 2017, this project has been depreciated due to Roblox's implementation of memory checking.
 
 CLVM's objective is to achieve script execution through a custom virtual machine that operates on a foreign, untranslated and incompatable lua state. It copies the Lua C functions from Roblox to a seperate DLL, and does everything *WITHOUT BYPASSING ANY MAJOR CHECKS. (memcheck, retcheck, hookcheck, etc)*. This is an amazing solution to executing code compared to proto conversion/bytecode conversion, as it rarely touches anything in Roblox's memory, rarely calls any Roblox functions externally, while outsourcing all of the execution work to the local lua_state. 
+
+The CLVM achieves all of the above by only compiling all of the lua code on it's own external lua state. The operations are then saved and wrapped into Roblox's implementation of every
+
+```const Instruction* i = function->code; // retrieve the instructions from the func
+for (;;)
+ i++; // increase the PC register
+ switch (getopcode(*i)) // do action based on instruction
+ case OP_MOVE:
+ -> do roblox's OP_MOVE
+ case OP_LOADK:
+ -> do roblox's OP_LOADK
+ case OP_LOADNIL
+ -> do roblox's OP_LOADNIL```
+
+
 
 Thank you:
   3dsboy
