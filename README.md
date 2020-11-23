@@ -43,8 +43,6 @@ Issues:
 - Checks such as the simple "hackflag" check in lua C functions need to be bypassed manually, then quickly reverted in a short period of time in order to prevent the memory checker from flagging any modifications in memory. 
 - OP_CALL, OP_CLOSURE, OP_RETURN, OP_TAILCALL are notoriously difficult, as you cannot copy Roblox's implementation. "Temporary" fixes have been employed.
 
-Legacy memcheck has been long outdated.
-
-Rest in peace, Danghui.
+Legacy memcheck has been long outdated. Rest in peace, Danghui.
 
 ![alt text](https://i.gyazo.com/ce3605f365825afa4b608ebfd360bcbf.png)
