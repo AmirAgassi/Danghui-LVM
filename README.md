@@ -45,4 +45,6 @@ Issues:
 
 Legacy memcheck has been long outdated.
 
+Rest in fucking peace, Danghui.
+
 ![alt text](https://i.gyazo.com/ce3605f365825afa4b608ebfd360bcbf.png)
