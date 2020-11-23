@@ -5,16 +5,16 @@ CLVM's objective is to achieve script execution through a custom virtual machine
 
 The CLVM achieves all of the above by only compiling all of the lua code on it's own external lua state. The operations are then saved and wrapped into Roblox's implementation of every
 
-```const Instruction* i = function->code; // retrieve the instructions from the func
+```Instruction *i = f->code; 
 for (;;)
- i++; // increase the PC register
- switch (getopcode(*i)) // do action based on instruction
- case OP_MOVE:
- -> do roblox's OP_MOVE
- case OP_LOADK:
- -> do roblox's OP_LOADK
- case OP_LOADNIL
- -> do roblox's OP_LOADNIL
+ i++;
+ switch (get_opcode(*i))
+ case OP_SETGLOBAL:
+  // execute Roblox's modified OP_SETGLOBAL
+ case OP_ADD:
+  // execute Roblox's modified OP_ADD
+ case OP_CALL:
+  // execute Roblox's modified OP_CALL
  ```
 
 
