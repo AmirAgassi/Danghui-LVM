@@ -54,3 +54,5 @@ Devlogs I found on Gyazo (3-4 years old):
 ![](https://i.gyazo.com/89227748dd47b8a930820f44fe843447.gif)
 ![](https://i.gyazo.com/893822d1ccdaf1ceceb269624aeba88d.gif)
 ![](https://i.gyazo.com/fba211bfb2227ea8fc8dd2e2a364f772.jpg)
+![](https://i.gyazo.com/9b63a756cd13cd6fb10bf1899c83e4bd.png)
+![](https://i.gyazo.com/fe8e4e7e856fbd3022083b5010aea6bd.png)
