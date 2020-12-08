@@ -47,7 +47,7 @@ Issues:
 
 Rest in peace, Danghui.
 
-Devlogs I found on Gyazo (3-4 years old):
+# Devlogs I found on Gyazo (3-4 years old):
 
 ![](https://i.gyazo.com/a971e59a3a99b9e81573f859c388a5ee.gif)
 ![](https://i.gyazo.com/6956f5a853072cd75d915f422bec5690.gif)
