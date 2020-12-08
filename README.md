@@ -49,7 +49,6 @@ Rest in peace, Danghui.
 
 # Devlogs I found on Gyazo (3-4 years old):
 
-![](https://i.gyazo.com/8df0c0c2af19bfa9b61f41bc1f338747.gif)
 ![](https://i.gyazo.com/a09f9949029846f35360124339b45c79.gif)
 ![](https://i.gyazo.com/a971e59a3a99b9e81573f859c388a5ee.gif)
 ![](https://i.gyazo.com/6956f5a853072cd75d915f422bec5690.gif)
