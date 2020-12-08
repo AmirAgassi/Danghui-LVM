@@ -51,5 +51,8 @@ Rest in peace, Danghui.
 
 Dev log videos:
 
-![](https://i.gyazo.com/f4cd8cdea450f841e02bad66fd3181d2.mp4)
+![](https://i.gyazo.com/ec49e6cb76ffabaa1ddae623c304dc07.gif)
+![](https://i.gyazo.com/893822d1ccdaf1ceceb269624aeba88d.gif)
+![](https://i.gyazo.com/89227748dd47b8a930820f44fe843447.gif)
+![](https://i.gyazo.com/6956f5a853072cd75d915f422bec5690.gif)
 
