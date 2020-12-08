@@ -48,8 +48,7 @@ Issues:
 Rest in peace, Danghui.
 
 ![alt text](https://i.gyazo.com/ce3605f365825afa4b608ebfd360bcbf.png)
+
+
 ![](https://i.gyazo.com/6956f5a853072cd75d915f422bec5690.gif)
 ![](https://i.gyazo.com/ec49e6cb76ffabaa1ddae623c304dc07.gif)
-
-![](https://i.gyazo.com/ec49e6cb76ffabaa1ddae623c304dc07.gif)
-![](https://i.gyazo.com/89227748dd47b8a930820f44fe843447.gif)
