@@ -51,4 +51,3 @@ Rest in peace, Danghui.
 
 
 ![](https://i.gyazo.com/6956f5a853072cd75d915f422bec5690.gif)
-![](https://i.gyazo.com/ec49e6cb76ffabaa1ddae623c304dc07.gif)
