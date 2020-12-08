@@ -47,10 +47,10 @@ Issues:
 
 Rest in peace, Danghui.
 
-Devlogs I found on Gyazo:
+Devlogs I found on Gyazo (3-4 years old):
 
 ![](https://i.gyazo.com/a971e59a3a99b9e81573f859c388a5ee.gif)
 ![](https://i.gyazo.com/6956f5a853072cd75d915f422bec5690.gif)
 ![](https://i.gyazo.com/89227748dd47b8a930820f44fe843447.gif)
-![](https://i.gyazo.com/fba211bfb2227ea8fc8dd2e2a364f772.jpg)
 ![](https://i.gyazo.com/893822d1ccdaf1ceceb269624aeba88d.gif)
+![](https://i.gyazo.com/fba211bfb2227ea8fc8dd2e2a364f772.jpg)
