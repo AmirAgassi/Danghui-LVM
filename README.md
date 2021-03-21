@@ -32,7 +32,9 @@ Thank you:
 - YieldFunction's have native support, isn't that just great?
 - NO YIELDING, NO HTTP/LOADSTRING SUPPORT.
 
-Danghui is the newer backend of the exploit Abstract, ever since it has switched from a stupid version of "Bytecode Execution". The previous method, based off of an illegal copy of Roblox's source code, was impossible to maintain by nature. The bytecode execution backend version of Abstract was released for free and NEVER sold. Here's the last working version if anyone still cares, along with a review NateVang has made about my exploit.
+Danghui is the newer backend of the exploit Abstract, ever since it has switched from an extremely incompetent script execution method classified by the community as "Bytecode Execution". The previous method, created through an illegal copy of Roblox's source code, was impossible to maintain by nature. The bytecode execution backend version of Abstract was released for free and NEVER sold. 
+
+Here's the last working version of Danghui if anyone still cares, along with a review NateVang has made about my exploit.
 
 https://www.youtube.com/watch?v=AF80kcpa2AM&ab_channel=AzulScript
 
