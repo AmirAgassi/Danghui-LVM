@@ -49,7 +49,7 @@ Issues:
 
 Rest in peace, Danghui.
 
-# Devlogs I found on Gyazo (2015-2017 years old):
+# Devlogs I found on Gyazo (2015-2017):
 
 ![](https://i.gyazo.com/a09f9949029846f35360124339b45c79.gif)
 ![](https://i.gyazo.com/a971e59a3a99b9e81573f859c388a5ee.gif)
